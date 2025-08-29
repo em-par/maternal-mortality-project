@@ -18,3 +18,9 @@ This notebook shows:
   ```bash
   pip install jupyter pandas matplotlib
   jupyter notebook
+
+## Data
+The dataset is included in this repo for convenience:  
+- **File:** `data/mmr.csv`  
+- **Source:** [CDC Maternal Mortality Data](https://www.cdc.gov/) (publicly available)  
+
